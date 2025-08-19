@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🔗 [Site Pessoal](https://github.com/seuusuario/automacao-powershell) – SIte Pessoal (HTML, CSS).  
+- 🔗 [Site Pessoal](https://github.com/seuusuario/automacao-powershell) – Site Pessoal (HTML, CSS).  
 - 🔗 [Volta ao Mundo](https://github.com/seuusuario/sistema-notas) – Projeto Volta ao Mundo (HTML, CSS).
 
   
