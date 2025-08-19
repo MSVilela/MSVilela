@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/MSVilela)  
+- [LinkedIn/MSVilela](https://www.linkedin.com/in/MSVilela)  
 - ✉️ Email: Matheussouzavilela1599@hotmail.com
